@@ -4,34 +4,30 @@ You can use the [editor on GitHub](https://github.com/Microsoft-USEduAzure/Micro
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Training Links for Azure
+## General Learning
+- [Azure Learning Paths](https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cvs-code)
+- [Microsoft Docs - Full Documenation and Tutorials for Each Azure Service](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all)
+- [Free Pluralsight Learning Provided by Microsoft](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2)
+- [Cloud Architecture and API Overview in Azure](https://channel9.msdn.com/shows/Azure-Friday/Learning-Azure-Part-2-Architecture-and-interactive-APIs-for-NET-and-REST-APIs?ocid=AID754288&wt.mc_id=CFID0314)
+- [GitHub Quickstart Templates to Test Out New Tech!](https://github.com/Azure/azure-quickstart-templates)
+- [Azure Roles-Based Certifications](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
+- [Azure Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
+- [Azure Friday](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
+  
+## Academic Resources
+- [Data Science for Students - Labs, Events, and other Academic Resources](https://github.com/Microsoft/computerscience#learn-by-doing-with-our-hands-on-labs)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Microsoft-USEduAzure/Microsoft-USEduAzure.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Azure Governance for IT Pros and Cloud Admins
+- [Introduction To Series](https://www.linkedin.com/feed/update/urn:li:activity:6455194948508667904/)
+- [Azure Monetary Commitment](https://www.linkedin.com/feed/update/urn:li:activity:6455207625352114176/)
+- [Azure Enrollment Hierarchy](https://www.linkedin.com/feed/update/urn:li:activity:6455234097039179776)
+- [Azure Portals and Demos](https://www.linkedin.com/feed/update/urn:li:activity:6455242331120631808)
+- [Azure Subscriptions & Best Practices](https://www.linkedin.com/feed/update/urn:li:activity:6455255976051376128)
+- [Azure Pricing & Cost Management](https://www.linkedin.com/feed/update/urn:li:activity:6458068062708072449)
+- [Azure Role Based Access Controls (RBAC)](https://www.linkedin.com/feed/update/urn:li:activity:6458073151032164352/)
+- [Azure Naming Conventions & Tagging](https://www.linkedin.com/feed/update/urn:li:activity:6463443511319629824/)
+- [Azure Resource Groups & Naming Conventions/Tagging Demo](https://www.linkedin.com/feed/update/urn:li:activity:6463443809954070528)
+- [Azure Policies & Management Groups](https://www.linkedin.com/feed/update/urn:li:activity:6463862618376540160/)
+- [Azure Governance Series Summary & Review](https://www.linkedin.com/feed/update/urn:li:activity:6488065944924094464/)
