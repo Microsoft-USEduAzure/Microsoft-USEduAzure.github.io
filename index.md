@@ -4,7 +4,7 @@
 
 // Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)  --->
 
-
+/
 # Training Links for Azure
 ## General Learning
 - [Azure Learning Paths](https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cvs-code)
