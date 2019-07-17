@@ -1,4 +1,6 @@
 # Azure Databricks Specific Learning
+- [Official Documentation + Tutorials](https://docs.microsoft.com/en-us/azure/azure-databricks/)
+
 - [Getting started with Azure Databricks guide](https://docs.azuredatabricks.net/getting-started/index.html)
 - [Hello World Lab for Getting Started with Databricks ML](https://github.com/microsoft/MCW-Machine-Learning/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Machine%20Learning.md)
 - [Tutorials for creating Databricks clusters](https://docs.azuredatabricks.net/user-guide/clusters/index.html)
