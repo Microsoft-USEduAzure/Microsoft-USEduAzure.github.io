@@ -18,6 +18,7 @@
   
 ## Academic Resources
 - [Data Science for Students - Labs, Events, and other Academic Resources](https://github.com/Microsoft/computerscience#learn-by-doing-with-our-hands-on-labs)
+- [Data Science For Research Analytics](http://aka.ms/Learn/Research)
 
 ## Data Platform Learning
 - [Azure Databricks Specific Learning](DatabricksLearning.md)
