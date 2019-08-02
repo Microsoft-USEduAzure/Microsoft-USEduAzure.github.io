@@ -22,6 +22,7 @@
 
 ## Data Platform Learning
 - [Azure Databricks Specific Learning](DatabricksLearning.md)
+- [Azure Hours Databricks Intro](databricks-intro\README.md)
 
 ## Azure Governance for IT Pros and Cloud Admins
 - [Introduction To Series](https://www.linkedin.com/feed/update/urn:li:activity:6455194948508667904/)
