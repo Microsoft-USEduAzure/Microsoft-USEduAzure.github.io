@@ -7,22 +7,40 @@
 
 # Training Links for Azure
 ## General Learning
-- [Azure Learning Paths](https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cvs-code)
-- [Microsoft Docs - Full Documenation and Tutorials for Each Azure Service](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all)
-- [Free Pluralsight Learning Provided by Microsoft](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2)
-- [Cloud Architecture and API Overview in Azure](https://channel9.msdn.com/shows/Azure-Friday/Learning-Azure-Part-2-Architecture-and-interactive-APIs-for-NET-and-REST-APIs?ocid=AID754288&wt.mc_id=CFID0314)
-- [GitHub Quickstart Templates to Test Out New Tech!](https://github.com/Azure/azure-quickstart-templates)
-- [Azure Roles-Based Certifications](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
-- [Azure Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
-- [Azure Friday](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
+### First Party
+- [Level 100: Azure Learning Paths](https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cvs-code)
+  - Guided, modular paths to help you learn a service from scratch
+- [Levels 100-400: Microsoft Docs - Full Documenation and Tutorials for Each Azure Service](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all)
+  - All-encompassing documentation including How-Tos, Tutorials, Reference Material, code, and much more
+- [Levels 200-400: Azure Roles-Based Certifications](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
+  - Our guide to help you certify your skills in practice in the real world
+- [Level 100: Azure Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
+  - Industry and application specific guides on how to implement Azure technology at a high-level.
+  - Governance guidance and Service Trust linkage found in the architecture guides for highly-regulated industries
+- [Level 100-200: Azure Friday](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
+  - A fun, fast (less than 20 min.) way to learn about Azure technology
+  - Published every Friday with rotating subject matter...hmm...sounds like [EDU Azure Hour](https://aka.ms/edu/azurehour) doesn't it?
+### Third Party
+- [Levels 100-300: Free Pluralsight Learning Provided by Microsoft](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2)
+  - Free courses provided by an online educator
+
   
 ## Academic Resources
 - [Data Science for Students - Labs, Events, and other Academic Resources](https://github.com/Microsoft/computerscience#learn-by-doing-with-our-hands-on-labs)
+  - GitHub repository for teaching new data science concepts and Azure data science technology
 - [Data Science For Research Analytics](http://aka.ms/Learn/Research)
+  - Azure Education Cloud Solution Architects links and videos for Research in Azure
 
 ## Data Platform Learning
 - [Azure Databricks Specific Learning](DatabricksLearning.md)
+  - Compiled list of learning specific to Databricks
 - [Azure Hours Databricks Intro](https://github.com/Microsoft-USEduAzure/databricks-intro)
+  - Azure Hours on 8/2/2019 information
+
+## Developer Specific Learning
+- [Level 200: Cloud Architecture and API Overview in Azure](https://channel9.msdn.com/shows/Azure-Friday/Learning-Azure-Part-2-Architecture-and-interactive-APIs-for-NET-and-REST-APIs?ocid=AID754288&wt.mc_id=CFID0314)
+  - Channel 9 overview of how Azure APIs work
+
 
 ## Azure Governance for IT Pros and Cloud Admins
 - [Introduction To Series](https://www.linkedin.com/feed/update/urn:li:activity:6455194948508667904/)
@@ -36,3 +54,6 @@
 - [Azure Resource Groups & Naming Conventions/Tagging Demo](https://www.linkedin.com/feed/update/urn:li:activity:6463443809954070528)
 - [Azure Policies & Management Groups](https://www.linkedin.com/feed/update/urn:li:activity:6463862618376540160/)
 - [Azure Governance Series Summary & Review](https://www.linkedin.com/feed/update/urn:li:activity:6488065944924094464/)
+
+## Infrastructure Implementation Links
+- [Levels 200-400: GitHub Quickstart Templates to Test Out New Tech!](https://github.com/Azure/azure-quickstart-templates)
