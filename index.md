@@ -5,7 +5,7 @@
 // Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)  --->
 Welcome to the landing page for US Azure Education! 
 
-Please remember to join our weekly [Azure Hour call](aka.ms/EDU/azurehour) to learn both about what's new in Azure and a special focus on a single Azure-oriented subject that changes every week.
+Please remember to join our weekly [Azure Hour call](http://aka.ms/EDU/azurehour) to learn both about what's new in Azure and a special focus on a single Azure-oriented subject that changes every week.
 
 
 
