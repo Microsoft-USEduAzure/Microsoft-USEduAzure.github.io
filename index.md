@@ -44,6 +44,8 @@ Please remember to join our weekly [Azure Hour call](http://aka.ms/EDU/azurehour
 ## Developer Specific Learning
 - [Level 200: Cloud Architecture and API Overview in Azure](https://channel9.msdn.com/shows/Azure-Friday/Learning-Azure-Part-2-Architecture-and-interactive-APIs-for-NET-and-REST-APIs?ocid=AID754288&wt.mc_id=CFID0314)
   - Channel 9 overview of how Azure APIs work
+- [Level 100-300: Azure DevOps Labs](https://azuredevopslabs.com)
+  - Azure DevOps Labs is a place to learn DevOps with guided steps for dev.azure.com   
 
 
 ## Azure Governance for IT Pros and Cloud Admins
