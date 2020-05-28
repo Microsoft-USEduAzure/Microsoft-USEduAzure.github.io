@@ -35,6 +35,7 @@ Please remember to join our weekly [Azure Hour call](http://aka.ms/EDU/azurehour
 - [Data Science For Research Analytics](http://aka.ms/Learn/Research)
   - Azure Education Cloud Solution Architects links and videos for Research in Azure
 - [Azure Starter for Students](https://azure.microsoft.com/en-us/offers/ms-azr-0144p/)
+  - Microsoft Azure for Students Starter gets you started with the Azure products you need to develop in the cloud at no cost to you, the student.
 
 ## Data Platform Learning
 - [Azure Databricks Specific Learning](DatabricksLearning.md)
