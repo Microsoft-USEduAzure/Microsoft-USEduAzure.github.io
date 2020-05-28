@@ -34,6 +34,7 @@ Please remember to join our weekly [Azure Hour call](http://aka.ms/EDU/azurehour
   - GitHub repository for teaching new data science concepts and Azure data science technology
 - [Data Science For Research Analytics](http://aka.ms/Learn/Research)
   - Azure Education Cloud Solution Architects links and videos for Research in Azure
+- [Azure Starter for Students](https://azure.microsoft.com/en-us/offers/ms-azr-0144p/)
 
 ## Data Platform Learning
 - [Azure Databricks Specific Learning](DatabricksLearning.md)
